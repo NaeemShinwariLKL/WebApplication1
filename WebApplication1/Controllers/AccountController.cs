@@ -34,6 +34,7 @@ namespace WebApplication1.Controllers
 
 
             // This is master
+            // This is another
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
