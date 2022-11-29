@@ -27,6 +27,10 @@ namespace WebApplication1.Controllers
             /////   New
             ////////            ttttttttt
             ////////////// yyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
+
+            //////////////////  HI HI
+            /////////////////// This is awsome
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
