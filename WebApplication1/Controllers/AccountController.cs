@@ -38,6 +38,11 @@ namespace WebApplication1.Controllers
 
 
             //          Look Like
+
+
+            //Merge the changes_01
+
+            // Merge the changes_02
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
